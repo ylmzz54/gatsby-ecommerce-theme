@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
+    title: `ylwear yeni nesil,yeni tarz`,
     siteUrl: `https://jamm.matter.design`,
   },
   plugins: [
